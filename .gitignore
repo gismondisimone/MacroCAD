@@ -1,0 +1,10 @@
+# Escludi File SolidWorks
+CAD/Assiemi/
+CAD/Particolari
+
+# history pcb
+PCB/.history/
+
+# Escludi tutti i file con un'estensione specifica
+*.prl
+*.lck
