@@ -12,8 +12,8 @@
         "oled": true
     },
     "i2c": {
-        "sda_pin": "GP5",
-        "scl_pin": "GP6"
+        "sda_pin": "D4",
+        "scl_pin": "D5"
     },
      "oled": {
           "driver": "SSD1306",
@@ -23,8 +23,8 @@
          }
     },
     "matrix_pins": {
-        "cols": ["GP9", "GP10", "GP11"],
-        "rows": ["GP1", "GP2", "GP3", "GP4"]
+        "cols": ["D8", "D9", "D10"],
+        "rows": ["D0", "D1", "D2", "D3"]
     },
     "processor": "RP2040",
     "url": "https://github.com/gismondisimone/MacroCAD",
