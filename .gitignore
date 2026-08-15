@@ -6,5 +6,5 @@ CAD/Particolari
 PCB/.history/
 
 # Escludi tutti i file con un'estensione specifica
-*.prl
+*.kicad_prl
 *.lck
