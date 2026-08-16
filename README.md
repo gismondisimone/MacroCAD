@@ -20,7 +20,7 @@ All the bits and pieces needed can be found **[here](/Bom.md)**.
 ---
 
 ## What is This?
-It's a **custom macropad** built with the ** Seed Studio XIAO RP2040**, **QMK firmware**. It's design by a CAD user for CAD users. The design is as cool as frigile.
+It's a **custom macropad** built with the **Seed Studio XIAO RP2040**, **QMK firmware**. It's design by a CAD user for CAD users. The design is as cool as frigile.
 
 ### Features:
 - **3x4 Matrix** - Just numbers and a dot key and enter key.
@@ -47,6 +47,22 @@ This macropad runs **QMK**, which means you get:
 |**2**|   4   |   5   |   6   |
 |**3**|   1   |   2   |   3   |
 |**4**|   0   |   .   |  ent  |
+
+---
+
+## How to Buil It:
+
+![MacroCAD Step-1](/CAD/Render/Montaggio%20step-1.png)
+**Step 1** - Put the inserts in the holes on the bottom part
+
+![MacroCAD Step-2](/CAD/Render/Montaggio%20step-2.png)
+**Step 2** - Alline the holes on the PCB to the holes on the bottom part
+
+![MacroCAD Step-3](/CAD/Render/Montaggio%20step-3.png)
+**Step 3** - Alline the holes on the top part to the holes on the PCB
+
+![MacroCAD Step-4](/CAD/Render/Montaggio%20step-4.png)
+**Step 4** - Put two M4x25 screws in the holes
 
 ---
 

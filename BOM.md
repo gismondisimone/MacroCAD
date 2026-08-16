@@ -25,6 +25,4 @@ Others:
 | [**Case Bottom.stl**](/Production/Base.STEP) | 1 |
 
 ### Notes:
-It would be awesome to have the crown parts printed in black!
-I can print the knob.
-I am buying the M3x8 Bolts.
+I don't need to have parts ptinted, I'm also buying the bolts and insert.
