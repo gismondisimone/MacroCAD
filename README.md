@@ -15,7 +15,7 @@
 
 ---
 ## BOM
-All the bits and pieces needed can be found **[here](/Bom.md)**.
+All the bits and pieces needed can be found **[here](/BOM.md)**.
 
 ---
 
