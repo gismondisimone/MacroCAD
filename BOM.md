@@ -25,4 +25,4 @@ Others:
 | [**Case Bottom.stl**](/Production/Base.STEP) | 1 |
 
 ### Notes:
-I don't need to have parts ptinted, I'm also buying the bolts and insert.
+I don't need to have parts printed, I'm also buying the bolts and insert.
